@@ -1,0 +1,3 @@
+[submodule "external/DNCP"]
+	path = external/DNCP
+	url = https://github.com/AaronRobinsonMSFT/DNCP
